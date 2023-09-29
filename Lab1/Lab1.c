@@ -37,7 +37,7 @@ bool notzero(int number[], int length)
 {
     int i;
     for (i=0 ; i<length ; i++)
-        if (number[i]!=0)  // If there is a digit is not zero, which stand for that the number is not zero, thus return true (the number is not zero).
+        if (number[i]!=0)  // If there is a digit is not zero, which represent that the number is not zero, thus return true (the number is not zero).
             return true;
     return false;
 }
