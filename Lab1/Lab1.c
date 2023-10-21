@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>          // Get 100 scores in all open cases and hidden cases with 6 and 4 scores per case respectively.
 #include <string.h>
 #include <stdbool.h>
 
